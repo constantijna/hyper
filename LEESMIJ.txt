@@ -1,0 +1,15 @@
+Delft Hyperloop Reisvergelijker (prototype)
+
+Installeren op de iPad
+1. Zet deze map online via HTTPS, bijvoorbeeld met GitHub Pages of Netlify Drop (map erin slepen).
+2. Open de link op de iPad in Safari.
+3. Tik op Deel -> Zet op beginscherm.
+4. Open de app een keer vanaf het beginscherm terwijl je online bent. Daarna werkt hij offline.
+5. Zet wifi uit en test.
+6. Kiosk: Instellingen -> Toegankelijkheid -> Begeleide toegang aan. Open de app en tik 3x op de zijknop.
+
+Instellingen en aannames
+Tik 5 keer snel op 'Delft Hyperloop' linksboven. De waarden worden op de iPad zelf bewaard.
+
+Updaten
+Pas de bestanden aan, verhoog VERSION in sw.js (bijv. v2), zet het opnieuw online en open de app een keer met internet.
